@@ -1,3 +1,4 @@
 This file is created to practice git-tutorial 
 This file is created to check the cloning of remote repository
 Cloned repository should also import this file and its content
+CHANGES DONE ON THE FILE
